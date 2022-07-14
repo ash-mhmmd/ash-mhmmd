@@ -6,4 +6,4 @@ I like to spend much of my free time learning new things and developing my skill
 * Tableau
 * Power BI
 
-I'm currently working on improving in the above areas as well as steeping into R and Python.
+I'm currently working on improving in the above areas as well as stepping into R and Python.
